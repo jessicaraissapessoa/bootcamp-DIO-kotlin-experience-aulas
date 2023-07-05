@@ -7,7 +7,7 @@ Repositório Destinado à aplicação dos aprendizados do bootcamp "Kotlin Exper
 - Introdução Prática à Linguagem de Programação Kotlin
 - Estruturas de Controle de Fluxo e Coleções em Kotlin
 
-Cada package (pasta) diz respeito às aulas de cada curso, sendo cada arquivo referente à uma aula.
+Cada package (pasta) diz respeito às aulas de cada curso, sendo cada arquivo referente à uma aula: introKotlin e estruturasFluxoColecoes, respectivamente.
 
 <br>
 
