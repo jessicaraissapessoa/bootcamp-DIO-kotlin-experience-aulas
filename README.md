@@ -42,7 +42,7 @@ Cada package (pasta) diz respeito às aulas de cada curso, sendo cada arquivo re
     - Loops: Iterators
     - Ranges: Loops com Int
     - Ranges: Ifs e loops com Char
-    - Verificações de igualdade ==e===
+    - Verificações de igualdade == e ===
     - Expressão Condicional
   - Coleções
     - Listas (List)
