@@ -1,4 +1,4 @@
-package estruturasDeFluxoEColecoes
+package estruturasDeFluxoEColecoes.ControleDeFluxo
 
 fun eatACake() = println("Eat a Cake")
 fun bakeACake() = println("Bake a Cake")
