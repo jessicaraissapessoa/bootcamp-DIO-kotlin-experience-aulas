@@ -1,4 +1,4 @@
-package introKotlin
+package introducaoPraticaKotlin
 
 class Customer //Só tem uma casca, uma receita para criar um objeto daquele tipo
 

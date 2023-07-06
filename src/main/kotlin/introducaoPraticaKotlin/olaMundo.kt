@@ -1,4 +1,4 @@
-package introKotlin
+package introducaoPraticaKotlin
 
 fun main() {
     println("Ola, mundo!")
