@@ -1,4 +1,4 @@
-package estruturasDeFluxoEColecoes.ControleDeFluxo
+package estruturasDeFluxoEColecoes.controleDeFluxo
 
 class Animal(val name: String)
 class  Zoo(val animals: List<Animal>) { //Classe Zoo que recebe uma lista imutável de Animals

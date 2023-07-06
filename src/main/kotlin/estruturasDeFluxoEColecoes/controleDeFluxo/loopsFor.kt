@@ -1,4 +1,4 @@
-package estruturasDeFluxoEColecoes.ControleDeFluxo
+package estruturasDeFluxoEColecoes.controleDeFluxo
 
 fun main() {
 
