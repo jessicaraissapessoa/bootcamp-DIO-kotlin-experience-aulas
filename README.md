@@ -1,8 +1,8 @@
-# DIO BootCamp "Kotlin Experience" - Parte 1
+# DIO BootCamp "Kotlin Experience" - Aulas
 
 ###
 
-Repositório Destinado à aplicação dos aprendizados do bootcamp "Kotlin Experience", da DIO, no que diz respeito aos seguintes cursos do mesmo:
+Repositório Destinado à aplicação síncrona dos aprendizados em aulas do bootcamp "Kotlin Experience", da DIO, no que diz respeito aos seguintes cursos do mesmo:
 
 - Introdução Prática à Linguagem de Programação Kotlin (Package: introducaoPraticaKotlin)
 - Estruturas de Controle de Fluxo e Coleções em Kotlin (Package: estruturasDeFluxoEColecoes)
