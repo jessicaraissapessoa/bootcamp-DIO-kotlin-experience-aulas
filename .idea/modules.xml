@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/introducao-kotlin-dio.iml" filepath="$PROJECT_DIR$/introducao-kotlin-dio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootcamp-dio-kotlin-experience-aulas.iml" filepath="$PROJECT_DIR$/bootcamp-dio-kotlin-experience-aulas.iml" />
     </modules>
   </component>
 </project>
