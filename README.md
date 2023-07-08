@@ -4,10 +4,10 @@
 
 Repositório Destinado à aplicação dos aprendizados do bootcamp "Kotlin Experience", da DIO, no que diz respeito aos seguintes cursos do mesmo:
 
-- Introdução Prática à Linguagem de Programação Kotlin
-- Estruturas de Controle de Fluxo e Coleções em Kotlin
+- Introdução Prática à Linguagem de Programação Kotlin (Package: introducaoPraticaKotlin)
+- Estruturas de Controle de Fluxo e Coleções em Kotlin (Package: estruturasDeFluxoEColecoes)
+- Orientação a Objetos e Tipos de Classes na Prática com Kotlin (Package: orientacaoAObjetosETiposDeClasses)
 
-Cada package (pasta) diz respeito às aulas de cada curso, sendo cada arquivo referente a uma aula: introducaoPraticaKotlin e estruturasDeFluxoEColecoes, respectivamente.
 
 <br>
 
@@ -49,5 +49,18 @@ Cada package (pasta) diz respeito às aulas de cada curso, sendo cada arquivo re
     - Conjuntos (Set)
     - Mapas (Map)
     - Funções úteis
+
+
+####
+
+- Orientação a Objetos e Tipos de Classes na Prática com Kotlin
+  - POO na prática com Kotlin
+    - Herança Simples
+    - Herança Com Construtor Parametrizado
+    - Herança Passando Argumentos do Construtor para a Superclasse
+    - Data Classes
+    - Enum Classes
+    - Sealed Classes
+    - Object Keyword
 
 </div>
